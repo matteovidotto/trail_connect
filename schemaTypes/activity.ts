@@ -37,7 +37,7 @@ export const activity = defineType({
           {title: 'Trail running', value: 'trail-running'},
           {title: 'Bici da corsa', value: 'bici-da-corsa'},
           {title: 'Gravel', value: 'gravel'},
-          {title: 'Mountainbike', value: 'mtb'},
+          {title: 'Mountain bike', value: 'mtb'},
         ],
         layout: 'radio',
       },
